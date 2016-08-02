@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face{
 	font-family:'nms-font';
-	src:url("http://www.no-mans-sky.com/elk/wp-content/themes/nomanssky/fonts/geonms-webfont.woff");
+	src:url(../fonts/geonms-webfont.woff);
 }
 
 body,html{
